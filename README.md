@@ -12,14 +12,17 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
+recode learning on python.
 
 # Header 1
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
-
+- lupengliang.github.io
+- thirdpart
+  1. openpyxl       | Application: operate data of excel, Tools can compare different points in two excel.
+  2. tkinter        | Application: a simple GUI response for customs, i finished a tools about generate config data.
+.  
 1. Numbered
 2. List
 
