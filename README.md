@@ -20,8 +20,9 @@ recode learning on python.
 
 - lupengliang.github.io
 - thirdpart
-  1. openpyxl       | Application: operate data of excel, Tools can compare different points in two excel.
-  2. tkinter        | Application: a simple GUI response for customs, i finished a tools about generate config data.
+  1. openpyxl                     | Application: operate data of excel, Tools can compare different points in two excel.
+  2. tkinter                      | Application: a simple GUI response for customs, i finished a tools about generate config data.
+  3. concurrentporgramming        | Application: a simple GUI response for customs, i finished a tools about generate config data.
 .  
 1. Numbered
 2. List
