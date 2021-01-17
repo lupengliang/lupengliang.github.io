@@ -24,9 +24,9 @@ recode learning on python.
   2. tkinter                      | Application: a simple GUI response for customs, i finished a tools about generate config data.
   3. concurrentprogramming        | Application: concurrentprogramming.
 - codinggameshare                 
-  1.codecombat                    | Application: forked to my github on codecombat.
-  2.codegame                      | Application: https://www.codingame.com/start (url: first coding game about web.)
-  3.checkio                       | Application: https://checkio.org/profile/login/ (url: second coding game about web.)
+  1. codecombat                   | Application: forked to my github on codecombat.
+  2. codegame                     | Application: https://www.codingame.com/start (url: first coding game about web.)
+  3. checkio                      | Application: https://checkio.org/profile/login/ (url: second coding game about web.)
   
 .  
 1. Numbered
