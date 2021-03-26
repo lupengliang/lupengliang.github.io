@@ -24,6 +24,7 @@ recode learning on python.
 - thirdpart
   1. openpyxl                     | Application: operate data of excel, Tools can compare different points in two excel.
   2. tkinter                      | Application: a simple GUI response for customs, i finished a tools about generate config data.
+  3. selenium                     | Application: a base applicaion about web frame with selenium.
   3. concurrentprogramming        | Application: concurrentprogramming.
   4. ClassSchedule                | Application: generate schedule on my learning about every day.
   5. supercrm                     | Application: django learning. there is useful to know how to make a beautiful web because i am tester. <project> 
